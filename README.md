@@ -19,3 +19,6 @@ Demo: [when.run/nav](https://when.run/nav/)
 ## 更新网站内容
 
 按格式修改项目根目录里的 `config.yml` 配置文件，并提交，等待几分钟后访问 `https://<github-id>.github.io/<repo>/` 查看效果
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kobe-Curry&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
